@@ -1,4 +1,8 @@
 url: https://www.googleapis.com/civicinfo/v2
-api_key: <Google API Key Goes Here>
+api_key: <Key Goes Here>
 test_address: 18 Melbourne Avenue Newton, MA 02460
 test_election: 2000
+election_test_results:
+  - VIP Test Election
+  - Michigan Consolidated Election
+  - DC Presidential and State Primary Election
