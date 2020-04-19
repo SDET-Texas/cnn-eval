@@ -1,0 +1,4 @@
+url: https://www.googleapis.com/civicinfo/v2
+api_key: <Google API Key Goes Here>
+test_address: 18 Melbourne Avenue Newton, MA 02460
+test_election: 2000
