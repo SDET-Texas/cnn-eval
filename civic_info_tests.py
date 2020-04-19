@@ -59,9 +59,9 @@ class CivicInfoTests:
 def main():
     civic_info_tests = CivicInfoTests()
     election_result = civic_info_tests.test_election_query()
-    print(election_result)
+    print("Election Test Pass: " + str(election_result))
     voter_result = civic_info_tests.test_voter_query()
-    print(voter_result)
+    print("Voter Test Pass: " + str(voter_result))
 
 
 if __name__ == "__main__":
