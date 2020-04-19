@@ -27,7 +27,7 @@ class CivicInfo:
         request_string = voter_url + r'?key=' + \
             self.api_key + r'&address=' + address + r'&electionId=' + str(election_id)
         result = requests.get(request_string)
-        raise NotImplementedError
+        return result
 
     def rep_info_by_address(self, levels_filter=None):
         rep_address = self.url + r'/representatives'

@@ -1,8 +1,28 @@
 url: https://www.googleapis.com/civicinfo/v2
-api_key: <Key Goes Here>
+api_key: <API key goes here>
 test_address: 18 Melbourne Avenue Newton, MA 02460
 test_election: 2000
 election_test_results:
   - VIP Test Election
   - Michigan Consolidated Election
   - DC Presidential and State Primary Election
+election_negative_tests:
+  - Unwanted
+  - NOT desired
+  - This shouldn't appear
+voter_test:
+  18 Melbourne Avenue Newton, MA 02460:
+    - Edward J. Markey
+    - John J. Lawn Jr.
+    - 1 Ashburton Pl., Rm 1705, Mccormack Bldg
+    - http://www.sec.state.ma.us/ele/ele14/pip142.htm
+  110 E Flagler Street Miami, FL 33131:
+    - http://www.pambondi.com/
+    - http://election.dos.state.fl.us/initiatives/initdetail.asp?account=10&seqnum=91
+    - Frank Bocanegra
+    - jeff@jeffatwater.com
+  308 e pearce blvd wentzville, mo 63385:
+    - Missouri's 3rd congressional district
+    - Matthew E.P. Thornhill
+    - St. Charles County
+    - Terry Cundiff
