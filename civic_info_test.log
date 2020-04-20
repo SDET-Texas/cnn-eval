@@ -1,44 +1,22 @@
-2020-04-19 18:04:59,992 INFO Election verifying for VIP Test Election
-2020-04-19 18:04:59,992 INFO Election verifying for Michigan Consolidated Election
-2020-04-19 18:04:59,992 INFO Election verifying for DC Presidential and State Primary Election
-2020-04-19 18:04:59,992 INFO verifying exclusion for Unwanted
-2020-04-19 18:04:59,992 INFO verifying exclusion for NOT desired
-2020-04-19 18:04:59,992 INFO verifying exclusion for This shouldn't appear
-2020-04-19 18:04:59,992 INFO Election query test passed.
-2020-04-19 18:05:00,142 INFO Voter verifying for Edward J. Markey
-2020-04-19 18:05:00,142 INFO Voter verifying for John J. Lawn Jr.
-2020-04-19 18:05:00,142 INFO Voter verifying for 1 Ashburton Pl., Rm 1705, Mccormack Bldg
-2020-04-19 18:05:00,142 INFO Voter verifying for http://www.sec.state.ma.us/ele/ele14/pip142.htm
-2020-04-19 18:05:00,142 INFO Voter query test passed for 18 Melbourne Avenue Newton, MA 02460.
-2020-04-19 18:05:00,292 INFO Voter verifying for http://www.pambondi.com/
-2020-04-19 18:05:00,292 INFO Voter verifying for http://election.dos.state.fl.us/initiatives/initdetail.asp?account=10&seqnum=91
-2020-04-19 18:05:00,292 INFO Voter verifying for Frank Bocanegra
-2020-04-19 18:05:00,292 INFO Voter verifying for jeff@jeffatwater.com
-2020-04-19 18:05:00,292 INFO Voter query test passed for 110 E Flagler Street Miami, FL 33131.
-2020-04-19 18:05:00,526 INFO Voter verifying for Missouri's 3rd congressional district
-2020-04-19 18:05:00,526 INFO Voter verifying for Matthew E.P. Thornhill
-2020-04-19 18:05:00,526 INFO Voter verifying for St. Charles County
-2020-04-19 18:05:00,526 INFO Voter verifying for Terry Cundiff
-2020-04-19 18:05:00,526 INFO Voter query test passed for 308 e pearce blvd wentzville, mo 63385.
-2020-04-19 18:05:27,626 INFO Election verifying for VIP Test Election
-2020-04-19 18:05:27,626 INFO Election verifying for Michigan Consolidated Election
-2020-04-19 18:05:27,626 INFO Election verifying for DC Presidential and State Primary Election
-2020-04-19 18:05:27,626 INFO verifying exclusion for Unwanted
-2020-04-19 18:05:27,626 INFO verifying exclusion for NOT desired
-2020-04-19 18:05:27,626 INFO verifying exclusion for This shouldn't appear
-2020-04-19 18:05:27,626 INFO Election query test passed.
-2020-04-19 18:05:27,743 INFO Voter verifying for Edward J. Markey
-2020-04-19 18:05:27,743 INFO Voter verifying for John J. Lawn Jr.
-2020-04-19 18:05:27,743 INFO Voter verifying for 1 Ashburton Pl., Rm 1705, Mccormack Bldg
-2020-04-19 18:05:27,743 INFO Voter verifying for http://www.sec.state.ma.us/ele/ele14/pip142.htm
-2020-04-19 18:05:27,743 INFO Voter query test passed for 18 Melbourne Avenue Newton, MA 02460.
-2020-04-19 18:05:27,876 INFO Voter verifying for http://www.pambondi.com/
-2020-04-19 18:05:27,876 INFO Voter verifying for http://election.dos.state.fl.us/initiatives/initdetail.asp?account=10&seqnum=91
-2020-04-19 18:05:27,876 INFO Voter verifying for Frank Bocanegra
-2020-04-19 18:05:27,876 INFO Voter verifying for jeff@jeffatwater.com
-2020-04-19 18:05:27,876 INFO Voter query test passed for 110 E Flagler Street Miami, FL 33131.
-2020-04-19 18:05:27,989 INFO Voter verifying for Missouri's 3rd congressional district
-2020-04-19 18:05:27,989 INFO Voter verifying for Matthew E.P. Thornhill
-2020-04-19 18:05:27,989 INFO Voter verifying for St. Charles County
-2020-04-19 18:05:27,989 INFO Voter verifying for Terry Cundiff
-2020-04-19 18:05:27,989 INFO Voter query test passed for 308 e pearce blvd wentzville, mo 63385.
+2020-04-19 19:21:51,242 INFO Election verifying for VIP Test Election
+2020-04-19 19:21:51,258 INFO Election verifying for Michigan Consolidated Election
+2020-04-19 19:21:51,258 INFO Election verifying for DC Presidential and State Primary Election
+2020-04-19 19:21:51,258 INFO verifying exclusion for Unwanted
+2020-04-19 19:21:51,258 INFO verifying exclusion for NOT desired
+2020-04-19 19:21:51,258 INFO verifying exclusion for This shouldn't appear
+2020-04-19 19:21:51,258 INFO Election query test passed.
+2020-04-19 19:21:51,443 INFO Voter verifying for Edward J. Markey
+2020-04-19 19:21:51,443 INFO Voter verifying for John J. Lawn Jr.
+2020-04-19 19:21:51,443 INFO Voter verifying for 1 Ashburton Pl., Rm 1705, Mccormack Bldg
+2020-04-19 19:21:51,443 INFO Voter verifying for http://www.sec.state.ma.us/ele/ele14/pip142.htm
+2020-04-19 19:21:51,443 INFO Voter query test passed for %s.
+2020-04-19 19:21:51,576 INFO Voter verifying for http://www.pambondi.com/
+2020-04-19 19:21:51,576 INFO Voter verifying for http://election.dos.state.fl.us/initiatives/initdetail.asp?account=10&seqnum=91
+2020-04-19 19:21:51,576 INFO Voter verifying for Frank Bocanegra
+2020-04-19 19:21:51,576 INFO Voter verifying for jeff@jeffatwater.com
+2020-04-19 19:21:51,576 INFO Voter query test passed for %s.
+2020-04-19 19:21:51,676 INFO Voter verifying for Missouri's 3rd congressional district
+2020-04-19 19:21:51,676 INFO Voter verifying for Matthew E.P. Thornhill
+2020-04-19 19:21:51,676 INFO Voter verifying for St. Charles County
+2020-04-19 19:21:51,676 INFO Voter verifying for Terry Cundiff
+2020-04-19 19:21:51,676 INFO Voter query test passed for %s.
